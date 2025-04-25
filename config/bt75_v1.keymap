@@ -8,6 +8,8 @@
 //#define ISO
 //#define ALL_1U
 
+#include <keys_de.h>
+
 / {
   chosen {
   #ifdef ANSI
